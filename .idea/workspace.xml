@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="187a8497-c75f-4292-b85a-edfe8ed33cea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phonebook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Phonebook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/DataInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/DataInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/DatabaseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/DatabaseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db/db_phonebook.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/db_phonebook.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/ConnectionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/ConnectionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/InputException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/InputException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/MessageException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/MessageException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_add_user_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_conect_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_conect_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_input_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_input_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_input_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_input_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_length_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_length_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_menu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_search_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_search_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_search_err.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_ui_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_ui_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_write.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/scan_write_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ValidationInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ValidationInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/WriterFilesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/WriterFilesService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OUxZA0J4hwxnE45KKp2ZmaulD2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DrawerMysql/mysql-connector-j-8.0.32.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\S_ssd\GeekBrains\Exceptions\Phonebook" />
+      <recent name="D:\S_ssd\GeekBrains\Exceptions\Phonebook\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Controller" />
+      <module name="Phonebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Phonebook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="service.Parser" />
+      <module name="Phonebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Validation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="service.Validation" />
+      <module name="Phonebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="service.ValidationInput" />
+      <module name="Phonebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Controller" />
+        <item itemvalue="Application.ValidationInput" />
+        <item itemvalue="Application.Parser" />
+        <item itemvalue="Application.Validation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="187a8497-c75f-4292-b85a-edfe8ed33cea" name="Changes" comment="" />
+      <created>1681629025620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681629025620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Phonebook$Controller.ic" NAME="Controller Coverage Results" MODIFIED="1682016128961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>
